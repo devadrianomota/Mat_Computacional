@@ -1,11 +1,10 @@
 import turtle
-import math
 
 t = turtle.Turtle()
 t.speed(0)
 
 #turtle.numinput(title, prompt, default=None, minval=None, maxval=None)
-nivel = turtle.numinput("Floco de Kotch", "Digite a quantidade de niveis desejados (1 a 5)")
+nivel = turtle.numinput("Floco de Kotch", "Digite a quantidade de nivel de recursão desejado")
 
 
 t.penup()
