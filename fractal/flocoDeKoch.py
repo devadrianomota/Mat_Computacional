@@ -4,7 +4,7 @@ t = turtle.Turtle()
 t.speed(0)
 
 #turtle.numinput(title, prompt, default=None, minval=None, maxval=None)
-nivel = turtle.numinput("Floco de Kotch", "Digite a quantidade de nivel de recursão desejado")
+nivel = turtle.numinput("Floco de Kotch", "Digite a quantidade do nivel de profundidade de recursão desejado")
 
 
 t.penup()
